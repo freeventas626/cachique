@@ -17,12 +17,12 @@
       "name": "CN9",
       "logo": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
       "group": "Paraguay",
-      "type": "hls",
+      "type": "CLARKEY",
       "url": "https://cdn-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
       "headers": {
       "Origin": "https://portal.app.flow.com.py",
        "Referer": "https://portal.app.flow.com.py/",
-    },
+        },
 
       "drm":"https://mundodeportes.online/pandatv/flow/keys.php?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca"
 
