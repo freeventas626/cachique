@@ -1,14 +1,12 @@
 {
   "channels": [
     {
-      "id": "4dm_snoticias_tv_1080p_not_24_7",
-      "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-      "logo": null,
-      "group": "Paraguay",
-      "type": "hls",
-      "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-      "headers": null,
-      "drm": null
+      "name": "SNT",
+      "url": "https:\/\/d2b5h5wyivfnfl.cloudfront.net\/live\/2e1f1b6a-9d03-4194-8559-2eabe61a1555\/medialist_15609871089997455276_hls.m3u8",
+      "icono": "https:\/\/solparaguay.qvixprimary.com\/assets\/resources\/img\/channels\/snt_7bc364b8e1b049f495af62b271aa81fe.png",
+      "type": "HLS",
+        "drm_license_uri": ""
+
     },
     {
       "id": "agr_fm_tv",
