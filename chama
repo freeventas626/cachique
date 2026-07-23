@@ -13,14 +13,14 @@
       
     },
     {
-     "id": "C9N",
-      "name": "C9N",
-      "logo": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
+      "id": "agr_fm_tv",
+      "name": "AGR FM TV",
+      "logo": null,
       "group": "Paraguay",
       "type": "hls",
-      "url": "https://cdn-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
+      "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
       "headers": null,
-      "drm": null 
+      "drm": null
 
     },
     {
