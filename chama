@@ -13,11 +13,14 @@
 
     },
     {
+     "id": "C9N",
       "name": "C9N",
-                "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
-                "icono": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
-                "type": "HLS",
-                "drm_license_uri": ""
+      "logo": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/c9n_95b07ba52f2b4facbf2b645b253baaea.png",
+      "group": "Paraguay",
+      "type": "hls",
+      "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
+      "headers": null,
+      "drm": null 
 
     },
     {
