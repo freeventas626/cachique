@@ -1,25 +1,16 @@
 {
   "channels": [
     {
-       "id": "Gen TV",
-    "name": "Gen TV",
-    "logo": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
-    "group": "Paraguay",
-    "type": "dash",
-    "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-    "headers": {
-      "Origin": "https://portal.app.flow.com.py",
-      "Referer": "https://portal.app.flow.com.py/"
+      "id": "4dm_snoticias_tv_1080p_not_24_7",
+      "name": "4DmásNoticias TV (1080p) [Not 24/7]",
+      "logo": null,
+      "group": "Paraguay",
+      "type": "hls",
+      "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+      "headers": null,
+      "drm": null
     },
-    
-"drm": {
-      "type": "clearkey",
-      "keys": {
-        "49eb924ba998ca7fbbaee30dcef1ecb4": "6e131b04b2e87598fb588ac205673698"
- }
- },
-
-{
+    {
       "id": "agr_fm_tv",
       "name": "AGR FM TV",
       "logo": null,
