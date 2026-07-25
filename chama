@@ -10,20 +10,7 @@
       "headers": null,
       "drm": null
     },
-    {
-      "id": "gen tv",
-      "name": "gent tv",
-      "logo": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/gen_024aa528d36c4e31aa00c436f3a82f15.png",
-      "group": "Paraguay",
-      "type": "clearkey",
-      "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-      "headers": {
-      "Origin": "https://portal.app.flow.com.py",
-      "Referer": "https://portal.app.flow.com.py/"
-    },
-      "drm": "https://results.femon.net/?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698"
-    },
-    {
+       {
       "id": "alcance_fm_play_tv",
       "name": "Alcance FM PLAY TV",
       "logo": null,
