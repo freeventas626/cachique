@@ -30,7 +30,7 @@
       "group": "Paraguay",
       "type": "dash",
       "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
-      "headers":{
+      "headers":"clearkey"
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
       "drm": "clearkey",
