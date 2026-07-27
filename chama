@@ -4,7 +4,7 @@
   "name": "TELEFUTURO",
   "logo": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
   "group": "Paraguay",
-  "type": "dash",
+  "type": "clearkey",
   "url": "https://cdn-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
   "headers": null,
   "drm": "clearkey",
