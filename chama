@@ -5,7 +5,7 @@
       {
         "name": "GEN MUNDIAL",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
-        "type": "CLEARKEY",
+        "type": "dash",
         "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a453a3bd3d1e5.25086301.png",
         "drm_license_uri": "https://results.femon.net/?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
         "headers": {
@@ -26,7 +26,7 @@
       {
         "name": "EL TRECE PY",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
-        "type": "CLEARKEY",
+        "type": "dash",
         "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a488364910509.86934142.png",
         "drm_license_uri": "https://results.femon.net/?keyid=a8093cdcb2d504bd38f16764bd21b6e5&key=bfcf3b033b5f0b5ae020751a6746326f",
         "headers": {
@@ -47,7 +47,7 @@
       {
         "name": "TYC SPORTS",
         "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "type": "CLEARKEY",
+        "type": "dash",
         "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a4921fe27d327.92011493.png",
         "drm_license_uri": "https://results.femon.net/?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
         "headers": {
