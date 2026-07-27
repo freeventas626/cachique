@@ -24,18 +24,24 @@
       "drm": null
     },
     {
-      "id": "Telefuturo",
-      "name": "Telefuturo",
-      "logo": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
-      "group": "Paraguay",
-      "type": "dash",
-      "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
-      "headers":"clearkey"
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-      "drm": "clearkey",
-      "clearKeys": {
-        "5d2731cf8a59b73438ef59d88cd882bf": "3f412fa6368b7db4903588de695377e1"
+     "name": "El Valle",
+                "url": "Ug4NRjPRVXJX4wvre9RZl15Yx03gzYcgJjelY7UJ042aHE1jISJ+dUrtUvhA0r/+M4GeAkbGtrQFNn3zHFs6VAzC4WGWsGcxKKzE436RvEf9Fva8/o3IMxX83ubOOAUXSTZoXB1a548Hq2k9vdLnAw==",
+                "type": "CLEARKEY",
+                "icono": "https://app.femon.net/femonplus/panel-contenido/../panel-banners/img/6a5818019ad046.91770004.png",
+                "drm_license_uri": "/z3lYyHgVlZ98676bMlcF1yeldDCvttUbYZIeh389CmZquUBP6TCEj8l3hVTOxRgTYhMwLMjnHSCRv8Ha5tw4kh8JzIUSRa4Uj40Q/XBqIE/nWTeItvZge4gmL2XdeE5HG1gYEudtaQTDDhW5/wbYg==",
+                "headers": {
+                    "Accept": "cGG1d1Qjasa4o2/5juGnwA==",
+                    "Accept-Language": "nrWjjwyL6m8PPreryOC2SWXTd8mC80WZTSlrqTNjEa0=",
+                    "Connection": "0Sf66v9JlXrwP7+Mp6zxBQ==",
+                    "Origin": "zfJyzcQCSRymYFQxADBCRGtdDvAYzViG7UW7DowGT0c=",
+                    "Referer": "zfJyzcQCSRymYFQxADBCRCgZBe/aHuac1L6HgLJ7dIQ=",
+                    "Sec-Fetch-Dest": "6f3ZGvc30TBNRSfGlfLdFg==",
+                    "Sec-Fetch-Mode": "ljhwokoTl7KZb18wHFPhaA==",
+                    "Sec-Fetch-Site": "vKnWXMCqGY7G+N/sWJoKpg==",
+                    "User-Agent": "5yNC/q7GdgUoH3pVyumJVzGbD207BO0kC4M4XYdv48hU2h0MOETQa0j7NfAwzG9hOXSFYZyfvpCw75U1nBicuVud+1sYuCnleW624At1IhZC5R6KruimsbxZ4RDBGma7CPb6CSG8MmEKSmHFfHym7A==",
+                    "sec-ch-ua": "2/aY0gYqUDJfJTbWg3tiDT9atUDNVpTu73DjTKPqNZAJ6s+nCVs60kcKvjGn74STX6Do7fDGRwbgUXNlXFfh69zUxyHGaiMAhfPb9m7HsdY=",
+                    "sec-ch-ua-mobile": "IG1bJ1dN2+15aX+MPlzTfw==",
+                    "sec-ch-ua-platform": "NfE7pc0fEfjQMP29Lsh90Q=="
       }
   }
     }
