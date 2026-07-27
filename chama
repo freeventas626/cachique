@@ -1,40 +1,179 @@
 {
   "channels": [
     {
-      "id": "A&E",
-      "name": "A&E",
-      "logo": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg",
-      "group": "Cine y Series",
+      "id": "snt",
+      "name": "SNT",
+      "logo": null,
+      "group": "Paraguay",
       "type": "hls",
-      "url": "http://190.61.114.186:8000/play/a040/index.m3u8",
+      "url": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8",
       "headers": null,
       "drm": null
     },
     {
-      "id": "canal_con_headers",
-      "name": "Canal Con Headers",
+      "id": "c9n",
+      "name": "C9N",
       "logo": null,
       "group": "Paraguay",
       "type": "hls",
-      "url": "https://servidor.com/stream/playlist.m3u8",
+      "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
+      "headers": null,
+      "drm": null
+    },
+    {
+      "id": "telefuturo",
+      "name": "Telefuturo",
+      "logo": null,
+      "group": "Paraguay",
+      "type": "hls",
+      "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
       "headers": {
-        "Referer": "https://sitio-origen.com/",
-        "User-Agent": "Mozilla/5.0"
+        "Referer": "https://www.telefuturo.com.py"
       },
       "drm": null
     },
     {
-      "id": "canal_clearkey",
-      "name": "Canal ClearKey",
+      "id": "latele",
+      "name": "Latele",
+      "logo": null,
+      "group": "Paraguay",
+      "type": "hls",
+      "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
+      "headers": {
+        "Referer": "https://www.latele.com.py/en-vivo"
+      },
+      "drm": null
+    },
+    {
+      "id": "gen",
+      "name": "Gen",
+      "logo": null,
+      "group": "Paraguay",
+      "type": "hls",
+      "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
+      "headers": {
+        "Referer": "https://www.gen.com.py/"
+      },
+      "drm": null
+    },
+    {
+      "id": "nanduti",
+      "name": "Ñandutí",
+      "logo": null,
+      "group": "Paraguay",
+      "type": "hls",
+      "url": "https://nanduti.b-cdn.net/Source.m3u8",
+      "headers": {
+        "Referer": "https://nanduti.com.py/nanduti-tv"
+      },
+      "drm": null
+    },
+    {
+      "id": "monumental_tv",
+      "name": "Monumental TV",
+      "logo": null,
+      "group": "Paraguay",
+      "type": "hls",
+      "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
+      "headers": {
+        "Referer": "https://www.monumental.com.py/"
+      },
+      "drm": null
+    },
+    {
+      "id": "npy",
+      "name": "NPY (Noticias PY)",
+      "logo": null,
+      "group": "Paraguay",
+      "type": "hls",
+      "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+      "headers": {
+        "Referer": "https://www.npy.com.py/"
+      },
+      "drm": null
+    },
+    {
+      "id": "paraguay_tv",
+      "name": "Paraguay TV (Canal Estatal)",
+      "logo": null,
+      "group": "Paraguay",
+      "type": "hls",
+      "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+      "headers": null,
+      "drm": null
+    },
+    {
+      "id": "tigo_sports",
+      "name": "Tigo Sports",
       "logo": null,
       "group": "Deportes",
+      "type": "hls",
+      "url": "https://live.enhdtv.com:8081/8160/index.m3u8",
+      "headers": null,
+      "drm": null
+    },
+    {
+      "id": "hei_now",
+      "name": "HEi Now",
+      "logo": null,
+      "group": "Paraguay",
+      "type": "hls",
+      "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+      "headers": {
+        "Referer": "https://www.heinow.com.py/"
+      },
+      "drm": null
+    },
+    {
+      "id": "unicanal",
+      "name": "Unicanal",
+      "logo": null,
+      "group": "Paraguay",
+      "type": "hls",
+      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
+      "headers": {
+        "Referer": "https://unicanal.com.py/"
+      },
+      "drm": null
+    },
+    {
+      "id": "trece",
+      "name": "Trece",
+      "logo": null,
+      "group": "Paraguay",
+      "type": "hls",
+      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8",
+      "headers": {
+        "Referer": "https://trece.com.py/"
+      },
+      "drm": null
+    },
+
+    {
+      "id": "_PLANTILLA_dash_clearkey",
+      "name": "[PLANTILLA] Canal DASH con ClearKey — reemplazar por tu fuente propia con licencia",
+      "logo": null,
+      "group": "Plantillas",
       "type": "dash",
-      "url": "https://servidor.com/manifest.mpd",
+      "url": "https://TU-CDN-PROPIO.com/manifest.mpd",
       "headers": null,
       "drm": "clearkey",
       "clearKeys": {
         "3f8b1a2c4d5e6f708192a3b4c5d6e7f8": "1a2b3c4d5e6f708192a3b4c5d6e7f8a9"
       }
+    },
+    {
+      "id": "_PLANTILLA_hls_headers",
+      "name": "[PLANTILLA] Canal HLS con Referer/User-Agent — reemplazar por tu fuente propia",
+      "logo": null,
+      "group": "Plantillas",
+      "type": "hls",
+      "url": "https://TU-SERVIDOR-PROPIO.com/playlist.m3u8",
+      "headers": {
+        "Referer": "https://tu-sitio-origen-propio.com/",
+        "User-Agent": "Mozilla/5.0"
+      },
+      "drm": null
     }
   ]
 }
