@@ -27,10 +27,15 @@
       "id": "Telefuturo",
       "name": "Telefuturo",
       "logo": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/telefuturo_2795f0598a5b41db83809e4ff3c7039e.png",
-      "group": "Deportes",
+      "group": "Paraguay",
       "type": "dash",
       "url": "https://flow-cdn-gcp.app.flow.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd",
-      "headers": null,
+      "headers":{
+          "Accept": "*/*",
+          "Accept-Language": "es-419,es;q=0.9,en;q=0.8",
+          "Connection": "keep-alive",
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
       "drm": "clearkey",
       "clearKeys": {
         "5d2731cf8a59b73438ef59d88cd882bf": "3f412fa6368b7db4903588de695377e1"
