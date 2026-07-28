@@ -155,7 +155,7 @@
       "logo": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
       "group": "PARAGUAY",
       "type": "dash",
-      "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
+      "url": "https://cdn-py.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
       "headers": null,
       "drm": "clearkey",
       "clearKeys": {
