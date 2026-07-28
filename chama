@@ -150,16 +150,16 @@
     },
 
     {
-      "id": "_PLANTILLA_dash_clearkey",
-      "name": "[PLANTILLA] Canal DASH con ClearKey — reemplazar por tu fuente propia con licencia",
-      "logo": null,
-      "group": "Plantillas",
+      "id": "SNT",
+      "name": "SNT",
+      "logo": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
+      "group": "PARAGUAY",
       "type": "dash",
-      "url": "https://TU-CDN-PROPIO.com/manifest.mpd",
+      "url": "https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd",
       "headers": null,
       "drm": "clearkey",
       "clearKeys": {
-        "3f8b1a2c4d5e6f708192a3b4c5d6e7f8": "1a2b3c4d5e6f708192a3b4c5d6e7f8a9"
+        "9f61dcce871cc41aeb206d05028fc30a": "9f6248194a3bf5e35b96b194e8624693"
       }
     },
     {
