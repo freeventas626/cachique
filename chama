@@ -1,179 +1,165 @@
 {
-  "channels": [
-    {
-      "id": "snt",
-      "name": "SNT",
-      "logo": null,
-      "group": "Paraguay",
-      "type": "hls",
-      "url": "https://alba-py-snt-snt.stream.mediatiquestream.com/index.m3u8",
-      "headers": null,
-      "drm": null
+        "name": "PARAGUAY SIN BLOQUEOS",
+        "samples": [
+			{
+                "name": "GEN PY",
+                "url": "https://nam.vssports.com.py/stable-proxy/chunklist.m3u8",
+                "icono": "https://i.postimg.cc/766s2fHs/download-59.jpg",
+        "headers": {
+            "Origin": "https://www.gen.com.py",
+            "Referer": "https://www.gen.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+        }
     },
+              {
+                "name": "RPC TV",
+                "url": "https://copacotf.desdeparaguay.net/trecetv/trecetv_alta/index.m3u8",
+                "icono": "https://i.ibb.co/P4vyXPy/rpc-m.jpg"
+            },
+			
+			
+			{
+                "name": "ABC TV",
+                "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(6ruw4QH_9iTmGLP03es7AwscRKVsguuv5aKCQU-RgOG8NPVZs3AqwH22CjqRaE_Twa_spYf4RDp3r26zQzO5B4AymplNXiqnXuSdQ1i3T8HAhsi8JOA5QXvbUwbf_-JS)/cloud/3/x9skr3m/d/live-720.m3u8#cell=lcf2-eu-north-1a",
+                "icono": "https://i.postimg.cc/0QP6WwKq/download-27.png"
+            },
+
+			  {
+                "name": "ÑANDUTI TV",
+                "url": "https://copacogen.desdeparaguay.net/nandutitv/nandutitv_baja/chunklist.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3EOxV-nirJlF_UpHHCq1F71viH5OEHluEOg&s"
+            },
+{
+                "name": "ROCK & POP PY",
+                "url": "https://zn1.desdeparaguay.net/rockandpoptv/rockandpoptv_baja/playlist.m3u8",
+                "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2titQuFvlj2uQQyUYquNXa868rumlDV9OPg&s"
+            },
+			
+			{
+                "name": "SNT",
+                "url": "https://d2b5h5wyivfnfl.cloudfront.net/live/2e1f1b6a-9d03-4194-8559-2eabe61a1555/ts:abr.m3u8",
+                "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
+            },
+
+			 {
+                "name": "C9N",
+                "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
+                "icono": "https://i.ibb.co/JvKr2dZ/C9N-LOGO.jpg"
+            },
     {
-      "id": "c9n",
-      "name": "C9N",
-      "logo": null,
-      "group": "Paraguay",
-      "type": "hls",
-      "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
-      "headers": null,
-      "drm": null
-    },
-    {
-      "id": "telefuturo",
-      "name": "Telefuturo",
-      "logo": null,
-      "group": "Paraguay",
-      "type": "hls",
-      "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
-      "headers": {
-        "Referer": "https://www.telefuturo.com.py"
-      },
-      "drm": null
-    },
-    {
-      "id": "latele",
-      "name": "Latele",
-      "logo": null,
-      "group": "Paraguay",
-      "type": "hls",
-      "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
-      "headers": {
-        "Referer": "https://www.latele.com.py/en-vivo"
-      },
-      "drm": null
-    },
-    {
-      "id": "gen",
-      "name": "Gen",
-      "logo": null,
-      "group": "Paraguay",
-      "type": "hls",
-      "url": "https://no.gendigi.net/origin-proxy/chunklist.m3u8",
-      "headers": {
-        "Referer": "https://www.gen.com.py/"
-      },
-      "drm": null
-    },
-    {
-      "id": "nanduti",
-      "name": "Ñandutí",
-      "logo": null,
-      "group": "Paraguay",
-      "type": "hls",
-      "url": "https://nanduti.b-cdn.net/Source.m3u8",
-      "headers": {
-        "Referer": "https://nanduti.com.py/nanduti-tv"
-      },
-      "drm": null
-    },
-    {
-      "id": "monumental_tv",
-      "name": "Monumental TV",
-      "logo": null,
-      "group": "Paraguay",
-      "type": "hls",
-      "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
-      "headers": {
-        "Referer": "https://www.monumental.com.py/"
-      },
-      "drm": null
-    },
-    {
-      "id": "npy",
-      "name": "NPY (Noticias PY)",
-      "logo": null,
-      "group": "Paraguay",
-      "type": "hls",
-      "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
-      "headers": {
-        "Referer": "https://www.npy.com.py/"
-      },
-      "drm": null
-    },
-    {
-      "id": "paraguay_tv",
-      "name": "Paraguay TV (Canal Estatal)",
-      "logo": null,
-      "group": "Paraguay",
-      "type": "hls",
-      "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
-      "headers": null,
-      "drm": null
-    },
-    {
-      "id": "tigo_sports",
-      "name": "Tigo Sports",
-      "logo": null,
-      "group": "Deportes",
-      "type": "hls",
-      "url": "https://live.enhdtv.com:8081/8160/index.m3u8",
-      "headers": null,
-      "drm": null
-    },
-    {
-      "id": "hei_now",
-      "name": "HEi Now",
-      "logo": null,
-      "group": "Paraguay",
-      "type": "hls",
-      "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
-      "headers": {
-        "Referer": "https://www.heinow.com.py/"
-      },
-      "drm": null
-    },
-    {
-      "id": "unicanal",
-      "name": "Unicanal",
-      "logo": null,
-      "group": "Paraguay",
-      "type": "hls",
-      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
-      "headers": {
-        "Referer": "https://unicanal.com.py/"
-      },
-      "drm": null
-    },
-    {
-      "id": "trece",
-      "name": "Trece",
-      "logo": null,
-      "group": "Paraguay",
-      "type": "hls",
-      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8",
-      "headers": {
-        "Referer": "https://trece.com.py/"
-      },
-      "drm": null
+        "name": "LA UNION TV",
+        "url": "https://copacotf.desdeparaguay.net/800tv/800tv/chunklist.m3u8",
+        "icono": "https://i.ibb.co/9hqVmzy/descarga.png"
     },
 
-    {
-      "id": "SNT",
-      "name": "SNT",
-      "logo": "https://solparaguay.qvixprimary.com/assets/resources/img/channels/snt_7bc364b8e1b049f495af62b271aa81fe.png",
-      "group": "PARAGUAY",
-      "type": "dash",
-      "url": "https://cdn-py.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd",
-      "headers": null,
-      "drm": "clearkey",
-      "clearKeys": {
-        "9f61dcce871cc41aeb206d05028fc30a": "9f6248194a3bf5e35b96b194e8624693"
-      }
+			  {
+                "name": "TELEFUTURO",
+                "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?admin=nacion",
+                "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
+            },
+
+			{
+                "name": "NPY PY",
+                "url": "https://copacotf.desdeparaguay.net/npy/npy_py_baja/playlist.m3u8?admin=tvaccion",
+                "icono": "https://i.postimg.cc/g0GvTJ7b/download-65.jpg"
+            },
+
+				{
+                "name": "POPU TV PY",
+                "url": "https://rds3gen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion",
+                "icono": "https://i.postimg.cc/qvZqcF4t/download-61.jpg"
+            },
+				{
+                "name": "POPU TV PY OPC 2",
+                "url": "https://copacotf.desdeparaguay.net/universotv/universotv_int_baja/playlist.m3u8?admin=nacion",
+                "icono": "https://i.postimg.cc/qvZqcF4t/download-61.jpg"
+            },
+{
+                "name": "UNICANAL PY",
+                "url": "https://copacotf.desdeparaguay.net/unicanal/unicanal_alta/index.m3u8",
+                "icono": "https://i.postimg.cc/5t2xrS9D/download-64.jpg"
+            },
+
+{
+                "name": "MEGA TV  PY",
+                "url": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
+                "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
+            },			
+
+			 {
+                "name": "LA TELE",
+                "url": "https://copacotf.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?admin=tvaccion",
+                "icono": "https://i.postimg.cc/9Xx2K7wd/download-58.jpg"
+            }
+	]
     },
     {
-      "id": "_PLANTILLA_hls_headers",
-      "name": "[PLANTILLA] Canal HLS con Referer/User-Agent — reemplazar por tu fuente propia",
-      "logo": null,
-      "group": "Plantillas",
-      "type": "hls",
-      "url": "https://TU-SERVIDOR-PROPIO.com/playlist.m3u8",
-      "headers": {
-        "Referer": "https://tu-sitio-origen-propio.com/",
-        "User-Agent": "Mozilla/5.0"
-      },
-      "drm": null
-    }
-  ]
-}
+        "name": "PARAGUAY 🇵🇾",
+        "samples": [
+    {
+        "name": "GEN_TV  ",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
+        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+        }
+    },
+    {
+        "name": "GEN_TV opcion 2",
+        "url": "https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
+        "icono": "https://i0.wp.com/television.com.py/wp-content/uploads/2020/10/LogoGENtvpy.jpg?fit=620%2C350&ssl=1",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+        }
+    },
+    {
+        "name": "Player Cam",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN__CAM1/SA_Live_dash_enc/GEN__CAM1.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=789387a3f449419d9b6e2f6c910e0861&key=a78b627380a43ef610485082ee91277a",
+        "icono": "https://i.ibb.co/qFMT70z0/flow.png",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+        }
+    },
+    {
+        "name": "DT CAM",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_CAM2/SA_Live_dash_enc/GEN_CAM2.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=97a46697db7524c76d47de9bed5b7f8a&key=8a0a08da423fca679702b4632a90f333",
+        "icono": "https://i.ibb.co/qFMT70z0/flow.png",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+        }
+    },
+    {
+        "name": "MULTICAM",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/GEN_Multicam/SA_Live_dash_enc/GEN_Multicam.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=f0d61c011c3343c630d66a55681ec0e9&key=f6fb66ae915cd5043864d821eacbae03",
+        "icono": "https://i.ibb.co/qFMT70z0/flow.png",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+        }
+    },
+    {
+        "name": "VS Sports",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/Eventos_PY/SA_Live_dash_enc/Eventos_PY.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "https://results.femon.net?keyid=2bdfc30f2a7591e107d8c84458c395dd&key=dcee0d6420b6b597fba15d3c4411a71e",
+        "icono": "https://i.ibb.co/CpxTmNvM/vs-sports.png",
+        "headers": {
+            "Origin": "https://portal.app.flow.com.py",
+            "Referer": "https://portal.app.flow.com.py/"
+        }
+    },
